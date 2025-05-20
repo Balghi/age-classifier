@@ -91,6 +91,8 @@ pinned: false
 
 Visit the Space URL to test your deployed app.
 
+Alternatively, you can check my app out at https://huggingface.co/spaces/Balghi/age-classifier-gradio
+
 ## 📝 License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
