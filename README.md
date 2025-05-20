@@ -22,7 +22,7 @@ A FastAI-based image classification project that categorizes face images into th
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<Balghi>/age-classifier.git
+git clone https://github.com/Balghi/age-classifier.git
 cd age-classifier
 ```
 
